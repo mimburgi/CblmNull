@@ -1,0 +1,782 @@
+Subject Name: 12.2
+
+--------------------------------------------- 
+Block 1
+Letter Set: 
+Q  Y  H  J  D
+
+Trial 1
+Letter Shown: g
+Button Pressed: 0 - Miss
+Reaction Time: 0
+
+Trial 2
+Letter Shown: t
+Button Pressed: 2 - Incorrect
+Reaction Time: 726
+
+Trial 3
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 618
+
+Trial 4
+Letter Shown: e
+Button Pressed: 2 - Incorrect
+Reaction Time: 631
+
+Trial 5
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 540
+
+Trial 6
+Letter Shown: d
+Button Pressed: 1 - Correct
+Reaction Time: 640
+
+Trial 7
+Letter Shown: a
+Button Pressed: 1 - Correct
+Reaction Time: 973
+
+Trial 8
+Letter Shown: q
+Button Pressed: 0 - Miss
+Reaction Time: 0
+
+Trial 9
+Letter Shown: a
+Button Pressed: 1 - Correct
+Reaction Time: 534
+
+Trial 10
+Letter Shown: a
+Button Pressed: 2 - Incorrect
+Reaction Time: 530
+
+Trial 11
+Letter Shown: q
+Button Pressed: 1 - Correct
+Reaction Time: 711
+
+Trial 12
+Letter Shown: f
+Button Pressed: 2 - Incorrect
+Reaction Time: 580
+
+Trial 13
+Letter Shown: h
+Button Pressed: 1 - Correct
+Reaction Time: 640
+
+Trial 14
+Letter Shown: e
+Button Pressed: 2 - Incorrect
+Reaction Time: 805
+
+Trial 15
+Letter Shown: y
+Button Pressed: 2 - Incorrect
+Reaction Time: 641
+
+Trial 16
+Letter Shown: a
+Button Pressed: 2 - Incorrect
+Reaction Time: 557
+
+Trial 17
+Letter Shown: a
+Button Pressed: 2 - Incorrect
+Reaction Time: 602
+
+Trial 18
+Letter Shown: n
+Button Pressed: 3 - Incorrect
+Reaction Time: 15
+
+Trial 19
+Letter Shown: h
+Button Pressed: 1 - Correct
+Reaction Time: 531
+
+Trial 20
+Letter Shown: t
+Button Pressed: 2 - Incorrect
+Reaction Time: 559
+
+Trial 21
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 556
+
+Trial 22
+Letter Shown: r
+Button Pressed: 2 - Incorrect
+Reaction Time: 585
+
+Trial 23
+Letter Shown: h
+Button Pressed: 1 - Correct
+Reaction Time: 525
+
+Trial 24
+Letter Shown: e
+Button Pressed: 2 - Incorrect
+Reaction Time: 578
+
+Trial 25
+Letter Shown: f
+Button Pressed: 2 - Incorrect
+Reaction Time: 854
+
+--------------------------------------------- 
+Block 2
+Letter Set: 
+H  R  W
+
+Trial 1
+Letter Shown: f
+Button Pressed: 2 - Correct
+Reaction Time: 858
+
+Trial 2
+Letter Shown: u
+Button Pressed: 2 - Correct
+Reaction Time: 535
+
+Trial 3
+Letter Shown: u
+Button Pressed: 2 - Correct
+Reaction Time: 451
+
+Trial 4
+Letter Shown: k
+Button Pressed: 2 - Correct
+Reaction Time: 424
+
+Trial 5
+Letter Shown: u
+Button Pressed: 2 - Correct
+Reaction Time: 692
+
+Trial 6
+Letter Shown: t
+Button Pressed: 2 - Correct
+Reaction Time: 457
+
+Trial 7
+Letter Shown: d
+Button Pressed: 2 - Correct
+Reaction Time: 646
+
+Trial 8
+Letter Shown: g
+Button Pressed: 2 - Correct
+Reaction Time: 874
+
+Trial 9
+Letter Shown: f
+Button Pressed: 2 - Correct
+Reaction Time: 495
+
+Trial 10
+Letter Shown: h
+Button Pressed: 1 - Correct
+Reaction Time: 564
+
+Trial 11
+Letter Shown: w
+Button Pressed: 1 - Correct
+Reaction Time: 464
+
+Trial 12
+Letter Shown: w
+Button Pressed: 1 - Correct
+Reaction Time: 397
+
+Trial 13
+Letter Shown: j
+Button Pressed: 2 - Correct
+Reaction Time: 634
+
+Trial 14
+Letter Shown: w
+Button Pressed: 1 - Correct
+Reaction Time: 766
+
+Trial 15
+Letter Shown: r
+Button Pressed: 1 - Correct
+Reaction Time: 611
+
+Trial 16
+Letter Shown: w
+Button Pressed: 1 - Correct
+Reaction Time: 727
+
+Trial 17
+Letter Shown: w
+Button Pressed: 1 - Correct
+Reaction Time: 523
+
+Trial 18
+Letter Shown: r
+Button Pressed: 1 - Correct
+Reaction Time: 448
+
+Trial 19
+Letter Shown: h
+Button Pressed: 1 - Correct
+Reaction Time: 533
+
+Trial 20
+Letter Shown: u
+Button Pressed: 2 - Correct
+Reaction Time: 497
+
+Trial 21
+Letter Shown: e
+Button Pressed: 2 - Correct
+Reaction Time: 589
+
+Trial 22
+Letter Shown: j
+Button Pressed: 2 - Correct
+Reaction Time: 978
+
+Trial 23
+Letter Shown: f
+Button Pressed: 2 - Correct
+Reaction Time: 631
+
+Trial 24
+Letter Shown: r
+Button Pressed: 1 - Correct
+Reaction Time: 947
+
+Trial 25
+Letter Shown: f
+Button Pressed: 2 - Correct
+Reaction Time: 664
+
+--------------------------------------------- 
+Block 3
+Letter Set: 
+J
+
+Trial 1
+Letter Shown: h
+Button Pressed: 2 - Correct
+Reaction Time: 459
+
+Trial 2
+Letter Shown: q
+Button Pressed: 2 - Correct
+Reaction Time: 376
+
+Trial 3
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 413
+
+Trial 4
+Letter Shown: w
+Button Pressed: 2 - Correct
+Reaction Time: 361
+
+Trial 5
+Letter Shown: n
+Button Pressed: 2 - Correct
+Reaction Time: 390
+
+Trial 6
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 467
+
+Trial 7
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 303
+
+Trial 8
+Letter Shown: t
+Button Pressed: 2 - Correct
+Reaction Time: 364
+
+Trial 9
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 440
+
+Trial 10
+Letter Shown: m
+Button Pressed: 2 - Correct
+Reaction Time: 436
+
+Trial 11
+Letter Shown: r
+Button Pressed: 2 - Correct
+Reaction Time: 409
+
+Trial 12
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 510
+
+Trial 13
+Letter Shown: h
+Button Pressed: 2 - Correct
+Reaction Time: 450
+
+Trial 14
+Letter Shown: r
+Button Pressed: 2 - Correct
+Reaction Time: 575
+
+Trial 15
+Letter Shown: n
+Button Pressed: 2 - Correct
+Reaction Time: 412
+
+Trial 16
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 624
+
+Trial 17
+Letter Shown: g
+Button Pressed: 2 - Correct
+Reaction Time: 549
+
+Trial 18
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 402
+
+Trial 19
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 350
+
+Trial 20
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 387
+
+Trial 21
+Letter Shown: f
+Button Pressed: 2 - Correct
+Reaction Time: 487
+
+Trial 22
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 531
+
+Trial 23
+Letter Shown: f
+Button Pressed: 2 - Correct
+Reaction Time: 463
+
+Trial 24
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 612
+
+Trial 25
+Letter Shown: m
+Button Pressed: 2 - Correct
+Reaction Time: 360
+
+--------------------------------------------- 
+Block 4
+Letter Set: 
+Y  A  F  J  U
+
+Trial 1
+Letter Shown: j
+Button Pressed: 0 - Miss
+Reaction Time: 0
+
+Trial 2
+Letter Shown: h
+Button Pressed: 0 - Miss
+Reaction Time: 0
+
+Trial 3
+Letter Shown: d
+Button Pressed: 1 - Correct
+Reaction Time: 661
+
+Trial 4
+Letter Shown: w
+Button Pressed: 1 - Correct
+Reaction Time: 473
+
+Trial 5
+Letter Shown: j
+Button Pressed: 0 - Miss
+Reaction Time: 0
+
+Trial 6
+Letter Shown: h
+Button Pressed: 0 - Miss
+Reaction Time: 0
+
+Trial 7
+Letter Shown: e
+Button Pressed: 2 - Incorrect
+Reaction Time: 591
+
+Trial 8
+Letter Shown: f
+Button Pressed: 1 - Correct
+Reaction Time: 411
+
+Trial 9
+Letter Shown: f
+Button Pressed: 1 - Correct
+Reaction Time: 688
+
+Trial 10
+Letter Shown: u
+Button Pressed: 0 - Miss
+Reaction Time: 0
+
+Trial 11
+Letter Shown: q
+Button Pressed: 2 - Incorrect
+Reaction Time: 585
+
+Trial 12
+Letter Shown: q
+Button Pressed: 2 - Incorrect
+Reaction Time: 382
+
+Trial 13
+Letter Shown: u
+Button Pressed: 1 - Correct
+Reaction Time: 762
+
+Trial 14
+Letter Shown: m
+Button Pressed: 2 - Incorrect
+Reaction Time: 527
+
+Trial 15
+Letter Shown: w
+Button Pressed: 2 - Incorrect
+Reaction Time: 452
+
+Trial 16
+Letter Shown: q
+Button Pressed: 2 - Incorrect
+Reaction Time: 528
+
+Trial 17
+Letter Shown: y
+Button Pressed: 1 - Correct
+Reaction Time: 493
+
+Trial 18
+Letter Shown: y
+Button Pressed: 1 - Correct
+Reaction Time: 434
+
+Trial 19
+Letter Shown: j
+Button Pressed: 2 - Incorrect
+Reaction Time: 678
+
+Trial 20
+Letter Shown: d
+Button Pressed: 2 - Incorrect
+Reaction Time: 603
+
+Trial 21
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 663
+
+Trial 22
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 379
+
+Trial 23
+Letter Shown: k
+Button Pressed: 2 - Incorrect
+Reaction Time: 536
+
+Trial 24
+Letter Shown: k
+Button Pressed: 2 - Incorrect
+Reaction Time: 533
+
+Trial 25
+Letter Shown: j
+Button Pressed: 1 - Correct
+Reaction Time: 705
+
+--------------------------------------------- 
+Block 5
+Letter Set: 
+Y  K  U
+
+Trial 1
+Letter Shown: a
+Button Pressed: 2 - Correct
+Reaction Time: 564
+
+Trial 2
+Letter Shown: h
+Button Pressed: 2 - Correct
+Reaction Time: 489
+
+Trial 3
+Letter Shown: u
+Button Pressed: 1 - Correct
+Reaction Time: 973
+
+Trial 4
+Letter Shown: g
+Button Pressed: 2 - Correct
+Reaction Time: 753
+
+Trial 5
+Letter Shown: u
+Button Pressed: 1 - Correct
+Reaction Time: 710
+
+Trial 6
+Letter Shown: y
+Button Pressed: 1 - Correct
+Reaction Time: 779
+
+Trial 7
+Letter Shown: k
+Button Pressed: 1 - Correct
+Reaction Time: 575
+
+Trial 8
+Letter Shown: u
+Button Pressed: 1 - Correct
+Reaction Time: 548
+
+Trial 9
+Letter Shown: w
+Button Pressed: 2 - Correct
+Reaction Time: 585
+
+Trial 10
+Letter Shown: f
+Button Pressed: 2 - Correct
+Reaction Time: 541
+
+Trial 11
+Letter Shown: a
+Button Pressed: 2 - Correct
+Reaction Time: 617
+
+Trial 12
+Letter Shown: t
+Button Pressed: 2 - Correct
+Reaction Time: 430
+
+Trial 13
+Letter Shown: k
+Button Pressed: 1 - Correct
+Reaction Time: 994
+
+Trial 14
+Letter Shown: h
+Button Pressed: 2 - Correct
+Reaction Time: 711
+
+Trial 15
+Letter Shown: y
+Button Pressed: 1 - Correct
+Reaction Time: 452
+
+Trial 16
+Letter Shown: q
+Button Pressed: 2 - Correct
+Reaction Time: 552
+
+Trial 17
+Letter Shown: e
+Button Pressed: 2 - Correct
+Reaction Time: 541
+
+Trial 18
+Letter Shown: y
+Button Pressed: 1 - Correct
+Reaction Time: 642
+
+Trial 19
+Letter Shown: y
+Button Pressed: 2 - Incorrect
+Reaction Time: 102
+
+Trial 20
+Letter Shown: u
+Button Pressed: 1 - Correct
+Reaction Time: 723
+
+Trial 21
+Letter Shown: k
+Button Pressed: 1 - Correct
+Reaction Time: 471
+
+Trial 22
+Letter Shown: m
+Button Pressed: 2 - Correct
+Reaction Time: 539
+
+Trial 23
+Letter Shown: k
+Button Pressed: 1 - Correct
+Reaction Time: 888
+
+Trial 24
+Letter Shown: f
+Button Pressed: 2 - Correct
+Reaction Time: 749
+
+Trial 25
+Letter Shown: a
+Button Pressed: 2 - Correct
+Reaction Time: 705
+
+--------------------------------------------- 
+Block 6
+Letter Set: 
+E
+
+Trial 1
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 805
+
+Trial 2
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 393
+
+Trial 3
+Letter Shown: y
+Button Pressed: 2 - Correct
+Reaction Time: 390
+
+Trial 4
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 411
+
+Trial 5
+Letter Shown: n
+Button Pressed: 2 - Correct
+Reaction Time: 447
+
+Trial 6
+Letter Shown: k
+Button Pressed: 2 - Correct
+Reaction Time: 523
+
+Trial 7
+Letter Shown: k
+Button Pressed: 2 - Correct
+Reaction Time: 383
+
+Trial 8
+Letter Shown: h
+Button Pressed: 2 - Correct
+Reaction Time: 820
+
+Trial 9
+Letter Shown: b
+Button Pressed: 2 - Correct
+Reaction Time: 481
+
+Trial 10
+Letter Shown: q
+Button Pressed: 2 - Correct
+Reaction Time: 389
+
+Trial 11
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 433
+
+Trial 12
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 286
+
+Trial 13
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 402
+
+Trial 14
+Letter Shown: j
+Button Pressed: 2 - Correct
+Reaction Time: 550
+
+Trial 15
+Letter Shown: e
+Button Pressed: 2 - Incorrect
+Reaction Time: 163
+
+Trial 16
+Letter Shown: h
+Button Pressed: 2 - Correct
+Reaction Time: 736
+
+Trial 17
+Letter Shown: y
+Button Pressed: 2 - Correct
+Reaction Time: 620
+
+Trial 18
+Letter Shown: u
+Button Pressed: 2 - Correct
+Reaction Time: 576
+
+Trial 19
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 589
+
+Trial 20
+Letter Shown: t
+Button Pressed: 2 - Correct
+Reaction Time: 825
+
+Trial 21
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 701
+
+Trial 22
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 393
+
+Trial 23
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 501
+
+Trial 24
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 354
+
+Trial 25
+Letter Shown: e
+Button Pressed: 1 - Correct
+Reaction Time: 415
+
