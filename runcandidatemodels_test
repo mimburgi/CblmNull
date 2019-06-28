@@ -1,0 +1,54 @@
+import os
+
+#specify conditions
+#v, a, t0
+#one at a time
+nodepends=["none", "none", "none"]
+vstim=["stim", "none", "none"]
+vcong=["cong", "none", "none"]
+vboth=["stim cong", "none", "none"]
+astim=["none", "stim", "none"]
+acong=["none", "cong", "none"]
+aboth=["none", "stim cong", "none"]
+tstim=["none", "none", "stim"]
+tcong=["none", "none", "cong"]
+tboth=["none", "none", "stim cong"]
+
+#two pars stim
+vstimastim=["stim", "stim", "none"]
+vstimtstim=["stim", "none", "stim"]
+astimtstim=["none", "stim", "stim"]
+
+#two pars stim one par cong
+vstimastimtcong=["stim", "stim", "cong"]
+vstimtstimacong=["stim", "cong", "stim"]
+astimtstimvcong=["cong", "stim", "stim"]
+
+#two pars cong
+vcongacong=["cong", "cong", "none"]
+vcongtcong=["cong", "none", "cong"]
+acongtcong=["none", "cong", "cong"]
+
+#two pars cong one par stim
+vcongacongtstim=["cong", "cong", "stim"]
+vcongtcongastim=["cong", "stim", "cong"]
+acongtcongvstim=["stim", "cong", "cong"]
+
+#two pars stim cong
+vbothaboth=["stim cong", "stim cong", "none"]
+vbothtboth=["stim cong", "none", "stim cong"]
+abothtboth=["none", "stim cong", "stim cong"]
+
+#two pars stim cong one par stim
+vbothabothtcong=["stim cong", "stim cong", "cong"]
+vbothtbothacong=["stim cong", "cong", "stim cong"]
+abothtbothvcong=["stim", "stim cong", "stim cong"]
+
+#two pars stim cong one par stim
+vbothabothtcong=["stim cong", "stim cong", "stim"]
+vbothtbothacong=["stim cong", "stim", "stim cong"]
+abothtbothvcong=["cong", "stim cong", "stim cong"]
+       
+#stroop
+os.chdir("C:/Users/Mike/Desktop/School/TedNull/CblmNull_repo/fastdm/Stroop_test")
+

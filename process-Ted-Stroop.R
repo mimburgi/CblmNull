@@ -40,30 +40,40 @@ stroopsummary<-subset(stroopsummary, trial_id == "stim" & exp_stage == "test")
 stroopsummary<-stroopsummary[,c("rt", "key_press", "correct_response", "correct", "condition",
                                 "stim_color", "stim_word", "session", "subj")]
 
-#still need to add tDCS condition for stroop
-
 #odd is real first
-stroopsummary$subj<-as.numeric(stroopsummary$subj)
-stroopsummary$stim[stroopsummary$subj%%2 == 1 && stroopsummary$session == "1"]<-"A"
-stroopsummary$stim[stroopsummary$subj%%2 == 1 && stroopsummary$session == "2"]<-"S"
-stroopsummary$stim[stroopsummary$subj%%2 == 0 && stroopsummary$session == "1"]<-"S"
-stroopsummary$stim[stroopsummary$subj%%2 == 0 && stroopsummary$session == "2"]<-"A"
+stroopsummary$subj<-as.numeric(as.character(stroopsummary$subj))
+stroopsummary$stim[stroopsummary$subj%%2 == 1 & stroopsummary$session == "1"]<-"A"
+stroopsummary$stim[stroopsummary$subj%%2 == 1 & stroopsummary$session == 2]<-"S"
+stroopsummary$stim[stroopsummary$subj%%2 == 0 & stroopsummary$session == 1]<-"S"
+stroopsummary$stim[stroopsummary$subj%%2 == 0 & stroopsummary$session == 2]<-"A"
+
+#mark outliers
+for (subject in stroopsummary$subj){
+  mrt<-mean(stroopsummary$rt[stroopsummary$subj == subject])
+  sdrt<-sd(stroopsummary$rt[stroopsummary$subj == subject])
+  upperlim<-mrt + 3*sdrt
+  lowerlim<-mrt - 3*sdrt
+  stroopsummary$rtoutlier[stroopsummary$subj == subject & stroopsummary$rt > upperlim]<-T
+  stroopsummary$rtoutlier[stroopsummary$subj == subject & stroopsummary$rt < lowerlim]<-T
+}
 
 #save summaryfile with all the extra shit we may ever need
 write.table(stroopsummary, "stroopsummary.txt", row.names = F)
 
 #format for fastdm
-stroopfdminput<-stroopsummary
+stroopfdminput<-subset(stroopsummary, is.na(rtoutlier))
 stroopfdminput$response[stroopfdminput$correct == T]<-1
 stroopfdminput$response[stroopfdminput$correct == F]<-0
-stroopfdminput<-subset(stroopfdminput, rt > 200)
+stroopfdminput$response[stroopfdminput$correct == 'true']<-1
+stroopfdminput$response[stroopfdminput$correct == 'false']<-0
+stroopfdminput<-subset(stroopfdminput, rt > 150)
 stroopfdminput$rt<-stroopfdminput$rt/1000
 stroopfdminput<-stroopfdminput[c("subj", "rt", "response", "condition", "stim")]
 #write fastdm files
 setwd("fastdm/Stroop")
 for (subject in as.factor(stroopfdminput$subj)){
   trimmedfile<-subset(stroopfdminput, subj == subject)
-  trimmedfile<-trimmedfile[,c("rt", "response", "condition", "stim")]
+  trimmedfile<-trimmedfile[,c("response", "rt", "condition", "stim")]
   write.table(trimmedfile, paste(subject, "stroopfdminput.dat", sep = "_"),
               sep = " ", row.names = F, col.names = F)
 }
